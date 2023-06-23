@@ -27,7 +27,7 @@ sectionPagesMenu = 'main'
   googleFonts = true
 
   [params.logo]
-    main = "/static/img/logo/Logo_TVJ.svg"
+    main = "img/logo/Logo_TVJ.png"
     
 
     # The size parameter is the class name of tailwindcss
