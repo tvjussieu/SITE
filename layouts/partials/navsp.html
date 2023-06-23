@@ -1,0 +1,9 @@
+<ul class="text-center list-none text-white text-3xl">
+    {{ range .Site.Menus.main }}
+    <li class="p-2">
+        <a href="{{ .URL | safeURL }}">
+            <span>{{ .Name }}</span>
+        </a>
+    </li>
+    {{ end }}
+</ul>

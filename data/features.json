@@ -1,0 +1,18 @@
+[
+  {
+    "title": "NOUS CONTACTER",
+    "description": "Le formulaire de contact",
+    "icon": "icon-desktop_windows"
+  },
+  {
+    "title": "NOS PROJETS",
+    "description": "Un rapide tour de ce que l'on fait",
+    "icon": "icon-lightbulb_outline"
+  },
+  {
+    "title": "QUI SOMMES NOUS ?",
+    "description": "Presentation de nos staffs préférés",
+    "icon": "icon-github",
+    "link": "layouts/shortcodes/form.html"
+  }
+]
