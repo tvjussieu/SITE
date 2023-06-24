@@ -1,18 +1,18 @@
 [
   {
+    "title": "QUI SOMMES NOUS ?",
+    "description": "Présentation de l'asssocation et de nos staffs préférés",
+    "link": "layouts/shortcodes/form.html"
+  },
+  {
     "title": "NOUS CONTACTER",
     "description": "Le formulaire de contact",
-    "icon": "icon-desktop_windows"
+    "link" : "/contact/"
+
   },
   {
-    "title": "NOS PROJETS",
-    "description": "Un rapide tour de ce que l'on fait",
-    "icon": "icon-lightbulb_outline"
-  },
-  {
-    "title": "QUI SOMMES NOUS ?",
-    "description": "Presentation de nos staffs préférés",
-    "icon": "icon-github",
-    "link": "layouts/shortcodes/form.html"
+    "title": "NOUS REJOINDRE",
+    "description": "Pour que tu puisses rejoindre TVJUSSIEU"
   }
+
 ]

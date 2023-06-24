@@ -2,6 +2,6 @@
 title: 'Contact'
 ---
 
-To contact us, please fill out the form below.
+Pour nous contacter, remplissez le formulaire ci-dessous.
 
 {{< form >}}
