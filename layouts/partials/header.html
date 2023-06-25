@@ -15,9 +15,6 @@
 
     
     <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
-        
-        
-
         <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
             <a href="{{ .Site.BaseURL }}"><img alt="{{ .Site.Params.logo.alt }}"
                     class="{{ .Site.Params.logo.size }} mr-3" src="{{ .Site.Params.logo.main | relURL }}"></a>
@@ -38,15 +35,16 @@
             <div class="text-lg lg:flex-grow">
             </div>
             {{- partial "toggle.html" . -}}
-            <div class="text-lg">
-                
-                {{ range .Site.Menus.main }}
-                <a href="{{ .URL | safeURL }}"
-                    class="duration-200 block mt-4 lg:inline-block lg:mt-0 text-black hover:opacity-60 mr-8">
-                    {{ .Name }}
-                </a>
-                {{ end }}
+            <div class="menu-header">
+                <ul id="nav">
+                    <li><a href="/products/">Products</a></li>
+                    <li><a href="/blog/">Blog</a></li>
+                    <li><a href="/about/">About</a></li>
+                    <li><a href="/contact/">Contact</a></li>
+                </ul>
             </div>
+
+
         </div>
     </nav>
 </header>
