@@ -1,4 +1,5 @@
 module.exports = {
+  darkMode: 'class',
   content: ["./**/*.html", "./**/*.md", "./config.toml"],
   theme: {
     extend: {
@@ -8,10 +9,15 @@ module.exports = {
           400: "#9CA3AF",
           700: "#374151",
           800: "#1F2937"
+        },
+        Yellow:{
+          200:"#FEF08A"
+        }
         }
       }
-    }
+
   },
   variants: {},
   plugins: [require("@tailwindcss/typography")],
+  
 };
