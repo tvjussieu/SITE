@@ -2376,11 +2376,9 @@ video {
   }
 }
 
-/* .strip-back{
+.strip-back{
   background-color:#D3D3D3;
-} */
-
-
+}
 
 #nav {
 	padding: 0; margin: 0;
@@ -2406,6 +2404,3 @@ video {
   background-color:black;
 }
 
-/* .dark-mode div{
-  background-color: black;
-} */
