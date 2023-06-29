@@ -2327,10 +2327,21 @@ video {
   }
 }
 
+/* // XXX: Tailwind doesn't want to cooperate for dark mode
+  So here is the trick, add a div with a class name on top of the div class you wanna change the properties
+  suppress the tailwind code that bothers you and add in this file directly the properties you wanna change
+  This is a horrible way of doing it but the only that works for me
+*/
+
+/* Part where we keep all the div added for the hack of dark-theme */
+
 .strip-back{
   background-color:#D3D3D3;
 }
 
+.box-strip{                 
+  background-color: white;
+}
 #nav {
 	padding: 0; margin: 0;
 }
@@ -2344,14 +2355,75 @@ video {
 	margin: 0 15px;
 }
 
+.first-f{                                   /* In footer.html */
+  background-color: #374151;
+}
+
+.last-f{                                    /* In footer.html */
+  background-color: #111827;
+}
+
+.all_post{
+  background-color: #111827;
+}
+
+.dark-mode .logo_light{
+  display:none;
+}
+
 
 .dark-mode{
-  background-color: rgb(45, 45, 45);
+  background-color: #181818;
     
   color: #f5f5f5 ;
 }
 
-.dark-mode .strip-back{
-  background-color:black;
+.dark-mode .body{
+  color:white;
+  
 }
 
+
+
+.logo_dark {
+  display: none;
+  height: 56px;
+
+}
+
+.dark-mode .TVJ_H{
+  margin-left:1.5%;
+}
+
+.dark-mode .logo_dark{
+  display:block;
+}
+
+.dark-mode p{
+  color: #f5f5f5 ;
+}
+
+.dark-mode .strip-back{
+  background-color: #080808;
+}
+
+.dark-mode .box-strip{
+  background-color: #181818;
+  
+}
+.dark-mode .last-f{
+  background-color: rgba(0, 0, 0, 0.836);
+}
+
+.dark-mode .first-f{
+  background-color: #181818;
+}
+
+.dark-mode .all_post{
+  background-color: #181818;
+}
+
+
+.dark-mode .blog-box{
+  background-color:#080808;
+}
