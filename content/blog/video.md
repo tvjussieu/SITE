@@ -9,6 +9,6 @@ author: "yoyo"
 
 On regarde si l'implementation du lecteur marche
 
-Marche meme avec les videos en non repertorié
+Marche pas avec les videos en non repertorié
 
 {{<youtube UaOHJyd8ZA8>}}

@@ -4,7 +4,7 @@
   <img id="thumb" alt="{{.Title}}" class="aspect-video object-cover w-auto lg:h-44"
     src="{{ .Params.image | relURL }}" />
   {{ else }}
-  <img id="thumb" alt="{{.Title}}" class="aspect-video object-cover w-auto lg:h-44"
+  <img id="thumb" alt="{{.Title}}" class="aspect-video object-cover w-auto lg:h-44 "
     src='{{ "/img/default.jpg" | relURL }}'>
   {{ end }}
   <div

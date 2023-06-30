@@ -2384,6 +2384,16 @@ video {
 
 /* Part where we keep all the div added for the hack of dark-theme */
 
+.image_post{
+
+    object-fit: cover;
+    height:200px;
+    width: 1115px;
+    
+}
+
+
+
 .strip-back{
   background-color:#D3D3D3;
 }
@@ -2422,7 +2432,7 @@ video {
 
 
 .dark-mode{
-  background-color: #181818;
+  background-color:black;
     
   color: #f5f5f5 ;
 }
@@ -2432,13 +2442,22 @@ video {
   
 }
 
-
+.TVJ_H{
+  font-size:140%;
+  margin-left:0px;
+}
 
 .logo_dark {
   display: none;
   height: 56px;
 
 }
+
+.logo_light{
+  margin-right:0px;
+  padding-right: 0px;
+}
+
 
 .dark-mode .TVJ_H{
   margin-left:1.5%;
@@ -2453,11 +2472,11 @@ video {
 }
 
 .dark-mode .strip-back{
-  background-color: #080808;
+  background-color:#181818;
 }
 
 .dark-mode .box-strip{
-  background-color: #181818;
+  background-color: black;
   
 }
 .dark-mode .last-f{
@@ -2473,6 +2492,84 @@ video {
 }
 
 
+
+.dark-mode .top{
+  background-color:white;
+}
+
+.dark-mode .middle{
+  background-color:white;
+}
+
+.dark-mode .bottom{
+  background-color:white;
+}
+
 .dark-mode .blog-box{
   background-color:#080808;
+}
+
+.dark-mode h1{
+  color:white;
+}
+
+.dark-mode h2{
+  color:white;
+}
+
+.dark-mode h3{
+  color:white;
+}
+
+.dark-mode h4{
+  color:white;
+}
+
+.dark-mode h5{
+  color:white;
+}
+
+.dark-mode h6{
+  color:white;
+}
+
+.dark-mode span{
+  color:white;
+}
+
+.dark-mode ul{
+  color:white;
+}
+
+.dark-mode li{
+  color:white;
+}
+
+.dark-mode table{
+  color:white;
+}
+
+.dark-mode .paginator{
+  border:white;
+}
+
+.dark-mode a{
+  color:white;
+}
+
+@media all and (max-width: 500px){
+  .TVJ_H{
+    font-size: 80%;
+    margin: auto 0% auto -4%;
+  }
+
+  .image_post{
+
+    object-fit: cover;
+    height:100px;
+    width: 1115px;
+    
+}
+
+
 }

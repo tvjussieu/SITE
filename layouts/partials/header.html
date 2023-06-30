@@ -17,25 +17,25 @@
     <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
 
         <div class="logo_light">
-        <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
-            <a href="{{ .Site.BaseURL }}"><img alt="{{ .Site.Params.logo.alt }}"
-                    class="{{ .Site.Params.logo.size }} mr-3" src="{{ .Site.Params.logo.main | relURL }}"></a>
+            <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
+                <a href="{{ .Site.BaseURL }}"><img alt="{{ .Site.Params.logo.alt }}"
+                        class="{{ .Site.Params.logo.size }} mr-3" src="{{ .Site.Params.logo.main | relURL }}"></a>
+            </div>
         </div>
-    </div>
         <div class="logo_div_dark">
-            <a href="{ .Site.BaseURL }}">
-                <img class ="logo_dark" src="/img/logo/Logo_TVJ_Blanc.PNG">
+            <a href="/index.html">
+                <img class ="logo_dark {{ .Site.Params.logo.size }} mr-3" src="/img/logo/Logo_TVJ_Blanc.PNG">
             </a>
         </div>
 
-        <p class= "TVJ_H" style="font-size:140%;">TV JUSSIEU</p>
+        <p class= "TVJ_H">TV JUSSIEU</p>
 
        
         {{- partial "toggle.html" . -}}
-   
+        
         <div class="block lg:hidden">
             
-            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
+            <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen" >
                 <span class="top"></span>
                 <span class="middle"></span>
                 <span class="bottom"></span>
@@ -43,7 +43,7 @@
             </div>
 
             
-            <!-- Il faut faire un toggle expres pour la version site, ne pas oublier de recréer un fichier toggle_mobile.html -->
+           
         </div>
         <div class="hidden w-full block flex-grow lg:flex lg:items-center lg:w-auto" id="mobileMenu">
             <div class="text-lg lg:flex-grow">

@@ -1,7 +1,8 @@
 [
   {
     "title": "QUI SOMMES NOUS ?",
-    "description": "Présentation de l'asssocation et de nos staffs préférés"
+    "description": "Présentation de l'asssocation et de nos staffs préférés",
+    "link":"/about/"
     
   },
   {
@@ -13,6 +14,7 @@
   {
     "title": "NOUS REJOINDRE",
     "description": "Pour que tu puisses rejoindre TVJUSSIEU",
+    "link":"https://docs.google.com/forms/d/e/1FAIpQLSfUXU0p_wy2HaR8rMESh9exZKu24GES0ghd13TN8NXrB7TwLw/viewform",
     "_comment" : "// On mettre ici un lien vers le google form pour rejoindre l'asso"
   }
 
