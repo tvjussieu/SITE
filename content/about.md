@@ -1,25 +1,22 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+title = "Qui sommes-nous ?"
+description = "Description de TVJ"
+date = "01-07-2023"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "TV JUSSIEU"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+TV Jussieu est l’association médiatique et audiovisuelle de Sorbonne Université.
+  
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Fondée en 2010, cette association étudiante de 1901 implantée sur le campus de Jussieu a pour but de permettre aux étudiants de s'informer sur les évènements de l'université dans son ensemble et de contribuer au développement de la vie étudiante. 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Notre programmation s'oriente sur la création de contenu audiovisuel pour les étudiants et par des étudiants, avec la réalisation d'aftermovies, de reportages, d'interviews, de court-métrages… et la prise de photos d'évènements divers et variés. Des évènements sont également organisés sur l'année comme le Gala de fin d'année. TV Jussieu collabore beaucoup avec les autres associations de Sorbonne Université (week-end d'intérgation des BDE, concerts de Sorbonne Live...) ou encore à certains événements plus formels mis en place par la direction de l'université (remise de diplômes des masters, Welcome Day, la fête de la science…). Elle compte une quarantaine de membres surmotivés à réaliser des montages qualitatifs et divertissants pour les étudiants.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+![Schema de Julie](/img/schema.png)  
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
+
+<br/>{{<youtube k2MAXc3Ztvc>}}

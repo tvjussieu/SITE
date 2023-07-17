@@ -1,5 +1,5 @@
 
-    {{ range first 3 (where site.RegularPages.ByDate.Reverse "Type" "in" site.Params.mainSections )}}
+    {{ range first 5 (where site.RegularPages.ByDate.Reverse "Type" "in" site.Params.mainSections )}}
 <div class="blog-box">
     <a href="{{ .Permalink }}">{{ partial "summary.html" . }}</a>
 </div>

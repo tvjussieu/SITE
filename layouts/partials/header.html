@@ -2,13 +2,23 @@
     <div id="overlay">
         <ul class="text-center list-none text-white text-3xl">
             
-            {{ range .Site.Menus.main }}
+           
             <li class="p-2">
-                <a href="{{ .URL | safeURL }}">
-                    <span>{{ .Name }}</span>
+                <a href="/blog/">
+                    <span>PROJET</span>
                 </a>
             </li>
-            {{ end }}
+            <li class="p-2">
+                <a href="/about/">
+                    <span>NOUS</span>
+                </a>
+            </li>
+            <li class="p-2">
+                <a href="/contact/">
+                    <span>CONTACT</span>
+                </a>
+            </li>
+            
         </ul>
 
     </div>
@@ -51,13 +61,25 @@
             
             <div class="menu-header">
                 <ul id="nav">
-                    {{ range .Site.Menus.main }}
+                    
+           
                     <li class="p-2">
-                        <a href="{{ .URL | safeURL }}">
-                            <span>{{ .Name }}</span>
+                        <a href="/blog/">
+                            <span>PROJET</span>
                         </a>
                     </li>
-                    {{ end }}
+                    <li class="p-2">
+                        <a href="/about/">
+                            <span>NOUS</span>
+                        </a>
+                    </li>
+                    <li class="p-2">
+                        <a href="/contact/">
+                            <span>CONTACT</span>
+                        </a>
+                    </li>
+                    
+                    
                 </ul>
             </div>
 
