@@ -42,6 +42,7 @@ sectionPagesMenu = 'main'
     #If you want to use FontAwesome, set this parameter to true.
     fontawesome = true
 
+
   [params.homepage_meta_tags]
     meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
     meta_og_title = "Tella"
