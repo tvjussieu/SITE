@@ -12,3 +12,5 @@ author: "yoyo"
 TV Jussieu était présent au tremplin musical organisé par SORBONNE LIVE 🎶
 
 Vous avez le lien juste [ici](https://www.facebook.com/media/set/?set=a.1135123127387832&type=3) pour découvrir toutes les photos de l'évènement.
+
+![la photo](/img/fotoSBL.jpg)

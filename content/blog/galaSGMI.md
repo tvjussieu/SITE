@@ -14,3 +14,5 @@ Merci à vous d’avoir été là pour le dernier événement SGMI de l’année
 
 🔗 Lien juste [ici](https://www.facebook.com/media/set/?set=a.1163725817860896&type=3) pour accéder à toutes les photos
 🧡 SGMI x TVJ 🤍
+
+![la photo](/img/fotoGalaSGMI.jpg)

@@ -17,4 +17,4 @@ Vous pouvez retrouver dès à présent toutes les photos de la soirée juste [ic
 
 On a hâte de vous retrouver pour plus de fun encore 🥰
 
-![](imagepost/fotoasso.jpg)
+![La photo](/img/fotoasso.jpg)
