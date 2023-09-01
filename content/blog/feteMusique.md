@@ -1,15 +1,15 @@
 ---
-title: «Micro trottoir Fête de la Musique» 
+title: "MT Fête de la musique"
 date: 2023-06-21T15:01:34+02:00
-image: "img/slide/slide01.jpg"
-weight: 100
-author: «yoti»
+image: "img/SBL.jpg"
+
+weight: 0
+author: "yoyo"
 ---
 
-Pour la fête de la musique, l’équipe de TVJ est partie à votre rencontre afin de savoir ce que vous 
+Rap, jazz, classique, techno, pop, ou rock, aujourd’hui il y en a pour tout les goûts 🎸
+En ce jour de fête de la musique, tout paris célébrera vos artistes préférés, alors préparez vos oreilles et vos voix pour une magnifique soirée ! 💃🏻
 
+On vous a interviewé, vous avez répondu, et voilà ce qu’il ne faut pas manquer en ce 21 juin 2023🎬
 
-{{<youtube UaOHJyd8ZA8>}}
-
-je veux mettre un [lien](https://anime-sama.fr/planning/ "anime sama")
----
+{{<youtube QBVLKV7rP0 >}}
