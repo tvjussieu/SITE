@@ -36,7 +36,7 @@ sectionPagesMenu = 'main'
     size = "h-14"
 
   [params.site]
-    name = "TVJUSSIEU"
+    name = "TV Jussieu"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
