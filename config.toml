@@ -36,7 +36,7 @@ sectionPagesMenu = 'main'
     size = "h-14"
 
   [params.site]
-    name = "TVJUSSIEU"
+    name = "TV Jussieu"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
@@ -44,15 +44,12 @@ sectionPagesMenu = 'main'
 
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_description = "Le site de TV Jussieu pour avoir toutes les informations sur nos activités etc."
+    meta_og_title = "tvjussieu"
     meta_og_type = "website"
     meta_og_url = "https://tella.pages.dev"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
+    meta_og_description = "Le site de TV Jussieu pour avoir toutes les informations sur nos activités etc."
 
 
 [menu]
