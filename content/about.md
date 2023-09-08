@@ -6,6 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "TV JUSSIEU"
 +++
 
+![Image staff cette année](/img/TVJ2.jpg)
 
 TV Jussieu est l’association médiatique et audiovisuelle de Sorbonne Université.
   
