@@ -1,7 +1,7 @@
 ---
 title: "MT Fête de la musique"
 date: 2023-06-21T15:01:34+02:00
-image: "img/fetemusique.jpg"
+image: "img/ftmusique.jpeg"
 
 weight: 2
 author: "yoyo"
@@ -12,4 +12,4 @@ En ce jour de fête de la musique, tout Paris célébrera vos artistes préfér�
 
 On vous a interviewé, vous avez répondu, et voilà ce qu’il ne faut pas manquer en ce 21 juin 2023 🎬
 
-{{<youtube QBVLKV7rP0 >}}
+{{<youtube pGhiBcvb4kw >}}
