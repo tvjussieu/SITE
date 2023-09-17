@@ -2,9 +2,7 @@
 title: "YELLOW NIGHT 2023"
 date: 2023-04-01T15:01:34+02:00
 image: "img/yellowN2023.jpg"
-
-weight: 10
-author: "yoyo"
+author: "tvjussieu"
 ---
 
 ## 💛 AFTER MOVIE DE LA YELLOW NIGHT 💛

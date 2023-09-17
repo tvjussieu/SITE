@@ -2,9 +2,7 @@
 title: "SSP 2023"
 date: 2023-02-15T15:01:34+02:00
 image: "img/ssp5.jpg"
-
-weight: 10
-author: "yoyo"
+author: "tvjussieu"
 ---
 
 

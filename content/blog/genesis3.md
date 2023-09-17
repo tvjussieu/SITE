@@ -2,9 +2,7 @@
 title: "GENESIS 2023"
 date: 2023-04-07T15:01:34+02:00
 image: "img/genesis2023.jpg"
-
-weight: 10
-author: "yoyo"
+author: "tvjussieu"
 ---
 
 À tous les futuristes qui ont répondus présents le 24 mars dernier…

@@ -2,9 +2,7 @@
 title: "MT Fête de la musique"
 date: 2023-06-21T15:01:34+02:00
 image: "img/ftmusique.jpeg"
-
-weight: 2
-author: "yoyo"
+author: "tvjussieu"
 ---
 
 Rap, jazz, classique, techno, pop, ou rock, aujourd’hui il y en a pour tous les goûts 🎸

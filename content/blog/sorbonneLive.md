@@ -2,9 +2,7 @@
 title: "SORBONNE LIVE 2023"
 date: 2023-04-30T15:01:34+02:00
 image: "img/SBL.jpg"
-
-weight: 10
-author: "yoyo"
+author: "tvjussieu"
 ---
 
 ## SORBONNE LIVE PHOTO

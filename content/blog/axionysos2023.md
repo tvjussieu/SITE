@@ -2,9 +2,7 @@
 title: "AXIONYSOS 2023"
 date: 2023-03-05T15:01:34+02:00
 image: "img/axio2023.jpg"
-
-weight: 10
-author: "yoyo"
+author: "tvjussieu"
 ---
 
 Vous les attendiez tous ! Les photos de la mythique soirée AXIO’NYSOS sont arrivées 💚

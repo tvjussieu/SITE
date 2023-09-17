@@ -2,9 +2,7 @@
 title: "GALA SGMI 2023"
 date: 2023-06-14T15:01:34+02:00
 image: "img/galaSGMI.jpeg"
-
-weight: 10
-author: "yoyo"
+author: "tvjussieu"
 ---
 
 ## LES PHOTOS DU GALA SGMI 

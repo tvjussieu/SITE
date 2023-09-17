@@ -2,9 +2,7 @@
 title: "LA SO' X PARISMUS 2023"
 date: 2023-05-11T15:01:34+02:00
 image: "img/assopar.jpg"
-
-weight: 10
-author: "yoyo"
+author: "tvjussieu"
 ---
 
 ## BAR LA SO' X PARISMUS
