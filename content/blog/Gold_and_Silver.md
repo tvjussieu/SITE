@@ -1,6 +1,6 @@
 ---
 title: "Gold and Silver"
-date: 2022-04-13T15:01:34+02:00
+date: 2022-05-13T15:01:34+02:00
 image: "img/gold-vs-silver.webp"
 author: "nono"
 ---
