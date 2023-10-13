@@ -1,7 +1,7 @@
 ---
 
 title: "SO'ciale n°1"
-date: 2023-08-21T15:01:34+02:00
+date: 2023-09-21T15:01:34+02:00
 image: "img/SOcialeN1.jpg"
 
 author: "TVJ"
