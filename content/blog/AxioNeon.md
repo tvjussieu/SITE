@@ -1,5 +1,5 @@
 ---
-title: "LA SO' X PARISMUS 2023"
+title: "AXIONEON"
 date: 2023-10-05T15:01:34+02:00
 image: "img/AxioNeon.jpg"
 author: "TVJ"
